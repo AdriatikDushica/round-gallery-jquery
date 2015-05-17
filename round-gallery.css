@@ -1,0 +1,13 @@
+.round-gallery{
+	background-color: whitesmoke;
+	position: relative;
+}
+
+.round-gallery > div{
+	background-color: red;
+	position: absolute;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+	transition: all 0.5s;
+}
